@@ -2,4 +2,4 @@
 
 
 
-![Aperçu de l'effet parallax](capture.png)
+![Aperçu du PDF ](capture.png)
